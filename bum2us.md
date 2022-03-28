@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bum2us)](https://github.com/bum2us/github-readme-stats)
 
-<img src="https://img.shields.io/badge/C#-FFCA28?style=flat-square&logo=CSharp&logoColor=#FFD000"/>
+<img src="https://img.shields.io/badge/C#-FFCA28?style=flat-square&logo=Amazon&logoColor=#FFD000"/>
+<img src="https://img.shields.io/badge/C Sharp-FFCA28?style=flat-square&logo=로고명&logoColor=#FFD000"/>
