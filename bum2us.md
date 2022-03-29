@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @bum2us
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![header](https://capsule-render.vercel.app/api?type=waving&gradient&customColorList=26&height=250&section=header&text=Bum2us&fontSize=90&fontColor=ffffff)
 
-<!---
-bum2us/bum2us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🖐HELLO🖐
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bum2us)](https://github.com/bum2us/github-readme-stats)
 
