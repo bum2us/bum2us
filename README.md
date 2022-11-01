@@ -3,4 +3,4 @@
 
 
 <img src="https://img.shields.io/badge/C Sharp-368CCB?style=flat-square&logo=C Sharp&logoColor=#ffffff"/>
-<img src="https://img.shields.io/badge/Spring-368CCB?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=#ffffff"/>
