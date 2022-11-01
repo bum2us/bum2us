@@ -3,4 +3,6 @@
 
 
 <img src="https://img.shields.io/badge/C Sharp-368CCB?style=flat-square&logo=C Sharp&logoColor=#ffffff"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=#ffffff"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=#ffffff"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=#ffffff"/>
+<img src="https://img.shields.io/badge/JavaScript-61DAFB?style=flat&logo=JavaScript&logoColor=#ffffff"/>
