@@ -1,8 +1,8 @@
 
-<div align="center">
+
  
 # 🛫 Hi, I'm BeomSu Shin 🛬
- 
+<div align="center">
  <div align="left">
  📷 [<strong>개인 프로젝트 ALBUM'S </strong>](http://3.38.214.0/) 📸 
  </div>
@@ -10,9 +10,9 @@
  <div align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
  </div>
- 
+</div>
 <br>
-
+<div align="center">
  <div align="left">
 
   <img src="https://img.shields.io/badge/C Sharp-368CCB?style=flat&logo=C Sharp&logoColor=white"/> 
