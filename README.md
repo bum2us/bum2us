@@ -2,7 +2,7 @@
 <div align="center">
  
 # 🛫 Hi, I'm BeomSu Shin 🛬
-📷 [<strong>SPRING 개인 프로젝트 ALBUM'S </strong>](http://3.38.214.0/) 📸 
+📷 [<strong>개인 프로젝트 ALBUM'S </strong>](http://3.38.214.0/) 📸 
 
 <br>
  
