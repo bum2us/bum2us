@@ -1,6 +1,5 @@
-<div align="center">
-## 🛫 Hi, I'm BeomSu Shin 🛬
-</div>
+
+<h3 align="center"> 🛫 Hi, I'm BeomSu Shin 🛬 </h3>
 
 <div align="center">
  [!개인 프로젝트 ALBUM'S](http://3.38.214.0/) 
