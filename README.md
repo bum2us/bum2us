@@ -1,8 +1,8 @@
 
 <div align="center">
  
-## 🛫 BeomSu Shin 🛬
- <a href="http://3.38.214.0/"> 📷 ALBUM'S 📸</a>
+# 🛫 BeomSu Shin 🛬
+ <a href="http://3.38.214.0/"> 📷<strong> ALBUM'S </strong>📸 </a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
