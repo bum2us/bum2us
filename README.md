@@ -6,11 +6,13 @@
 
 <br>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bum2us&show_icons=true&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bum2us&show_icons=true&theme=dracula"/>
+
+<br>
  
 <img src="https://img.shields.io/badge/C Sharp-368CCB?style=flat&logo=C Sharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
