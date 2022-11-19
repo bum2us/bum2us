@@ -4,7 +4,7 @@
 # 🛫 Hi, I'm BeomSu Shin 🛬
 </div>
 <div align=center>
- [📷<strong>개인 프로젝트 ALBUM'S </strong>📷](http://3.38.214.0/) 
+ [!개인 프로젝트 ALBUM'S](http://3.38.214.0/) 
 </div>
  
  <div align=center>
