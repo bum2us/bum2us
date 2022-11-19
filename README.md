@@ -3,11 +3,11 @@
 
 <div align="center">
  
-### 🛫 BeomSu Shin 🛬
+## 🛫 BeomSu Shin 🛬
+<hr>
+ ### ALBUM'S <a href="http://3.38.214.0/">http://3.38.214.0/</a>
  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us)](https://github.com/bum2us/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bum2us)](https://github.com/bum2us/github-readme-stats)
 
 
