@@ -1,12 +1,12 @@
 
 <h1 align="center"> 🛫 Hi, I'm BeomSu Shin 🛬 </h1>
-
+<br><br><br>
 <div align="center">
  <h3 align="center">프로젝트 URL</h3>
  <a href="http://3.38.214.0/"> <strong>ALBUM'S</strong> </a> 
- <br>
- <h3 align="center">🛠 SKILL SET 🛠</h3> 
- &nbsp 
+ <br><br><br>
+ <h3 align="center">🛠SKILLS🛠</h3> 
+  <br>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   -->
 </div>
- <br>
+ <br><br><br><br><br>
  <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bum2us&show_icons=true&theme=dracula"/>  
