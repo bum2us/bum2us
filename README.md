@@ -22,10 +22,9 @@
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   -->
 </div>
- 
+ <br>
  <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bum2us&show_icons=true&theme=dracula"/>  
  </div>
 
