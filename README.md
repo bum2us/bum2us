@@ -7,8 +7,7 @@
  <br>
  <a href=""> <strong>📍 SPACE MARKET</strong> </a> 
  <br>
- <h3 align="left">🛠 Skills</h3>
- Languages & Platforms & Tools<br><br>
+ <h3 align="left">🛠 Skills</h3><br>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
