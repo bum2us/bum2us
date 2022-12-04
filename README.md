@@ -3,9 +3,9 @@
 
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
- <a href="http://3.38.214.0/"> <strong>📍 ALBUM'S</strong> [사진 공유 SNS]</a> 
+ <a href="http://3.38.214.0/"> <strong>📍 ALBUM'S</strong> http://3.38.214.0/</a> 
  <br>
- <a href=""> <strong>📍 SPACE MARKET</strong> [LIVE 중고거래 ]</a> 
+ <a href=""> <strong>📍 SPACE MARKET</strong> </a> 
  <br>
  <h3 align="left">🛠 Skills</h3><br>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
