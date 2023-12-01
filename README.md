@@ -26,7 +26,9 @@
 </div>
  <br>
  <div align="left">
+  <!--
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
+  -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bum2us&show_icons=true&theme=dracula"/>  
  </div>
 
